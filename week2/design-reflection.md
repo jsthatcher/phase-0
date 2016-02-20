@@ -19,4 +19,4 @@ User experience design is a style of design where they specificly try to make th
 Which parts of the challenge did you find tedious?
 Creating the site map was probably most tedious, but that only because I tried to use gimp for the first time to make it. But, I gave up and got a trial for an online app DBC recomended
 
-![Alt text](week2/imgs/map.png "My Site Map")
+![Alt text](/imgs/map.png "My Site Map")
