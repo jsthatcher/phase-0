@@ -11,7 +11,7 @@ Did you revise your wireframe or stick with your first idea?
 I havn't revised my wireframe yet, but I'm sure I will by the time my blog is live.
 
 What questions did you ask during this challenge? What resources did you find to help you answer them?
-I found the resourses provided very usefull.
+I found the resourses provided very useful.
 
 Which parts of the challenge did you enjoy and which parts did you find tedious?
 I enjoyed creating the wireframes, but working with an online application was tedious. I think I might need to get a copy of Photoshop.
