@@ -17,7 +17,7 @@ Which parts of the challenge did you enjoy and which parts did you find tedious?
 I enjoyed creating the wireframes, but working with an online application was tedious. I think I might need to get a copy of Photoshop.
 
 This is my Peronal Website Wireframe:
-![Alt text](/week2/imgs/wireframe-index.png "Personal Website Wireframe")
+![Alt text](/week2/imgs/wireframe-index.pdf "Personal Website Wireframe")
 
 This is my Blog Wireframe:
-![Alt text](/week2/imgs/wireframe-blog-index.png "My Site Map")
+![Alt text](/week2/imgs/wireframe-blog-index.pdf "My Site Map")
