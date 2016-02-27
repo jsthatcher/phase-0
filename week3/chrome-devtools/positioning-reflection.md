@@ -1,10 +1,12 @@
-![alt text](# "Exercise1")
-![alt text](# "Exercise2")
-![alt text](# "Exercise3")
-![alt text](# "Exercise4")
-![alt text](# "Exercise5")
-![alt text](# "Exercise6")
-![alt text](# "Exercise7")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/Screen%20Shot%202016-02-27%20at%204.30.25%20PM.png "Exercise1")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/Screen%20Shot%202016-02-27%20at%204.33.45%20PM.png "Exercise2")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/Screen%20Shot%202016-02-27%20at%204.34.53%20PM.png "Exercise3")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/Screen%20Shot%202016-02-27%20at%204.38.16%20PM.png "Exercise4")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/Screen%20Shot%202016-02-27%20at%204.39.55%20PM.png "Exercise5")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/3f1b9ebc-99f5-44c6-a556-fb9d1785387f.png "Exercise6")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/1aa27a1d-303e-4b84-89b7-d47c735a2249.png "Exercise7")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/b8a756ba-d037-486d-a507-c8ec1f3beaf6.png "Exercise8")
+![alt text](https://github.com/jthatcher96/phase-0/blob/master/week3/chrome-devtools/imgs/014d4f25-55e7-43c2-8d89-01fb823ea43f.png "Exercise9")
 
 
 How can you use Chrome's DevTools inspector to help you format or position elements?
