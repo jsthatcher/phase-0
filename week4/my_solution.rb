@@ -5,11 +5,10 @@
 
 # Your Solution Below
 
-def do_something (var1,var2,var3)
-	
+def do_something var1, var2, var3 
 end
 
-do_something (21,22,32)
+
 
 
 
