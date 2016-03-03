@@ -8,11 +8,11 @@ What is the difference between float and integer division? How would you explain
 While using division with floats you can get exact answers down to the decimal place. Because integers can only be whole numbers, when dividing Ruby truncates the remainder. For example 9/2 = 4 (with a truncated remainder of 1) while 9.0/2.0 = 4.5
 
 My Code:
-'''
+```
 puts "Hours in a year: #{365 * 24}"
 
 puts "Minutes in a decade: #{10 * 365 * 24 * 60}"
-'''
+```
 
 How does Ruby handle addition, subtraction, multiplication, and division of numbers?
 
