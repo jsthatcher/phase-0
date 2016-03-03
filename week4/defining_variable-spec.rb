@@ -1,4 +1,3 @@
-lines (9 sloc)  276 Bytes
 require_relative "my_solution"
 
 describe 'do_something' do
