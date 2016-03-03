@@ -9,10 +9,8 @@ While using division with floats you can get exact answers down to the decimal p
 
 My Code:
 '''
-#HOURS IN A YEAR
 puts "Hours in a year: #{365 * 24}"
 
-#MINUTES IN A DECADE
 puts "Minutes in a decade: #{10 * 365 * 24 * 60}"
 '''
 
