@@ -1,0 +1,38 @@
+header{
+	background-color: cyan;
+	padding: 1% 5%;
+}
+
+header h1{
+	text-align: center;
+	color:grey;
+}
+
+section h2{
+	text-transform: lowercase;
+}
+
+section h2:first-letter{
+	text-transform: uppercase;
+}
+
+.column-1, .column-2{
+	width: 46%;
+	float: left;
+	margin: 1%;
+	padding: 1%;
+	
+}
+
+.column-1{
+	background-color: blue;
+}
+
+.column-2{
+	background-color: red;
+}
+
+footer{
+	background-color: purple;
+	clear: both;
+}
