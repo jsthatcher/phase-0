@@ -76,7 +76,7 @@ end
 
 # # Person 4
 def my_array_deletion_method!(source, thing_to_delete)
-  source.delete_if {|i| i.to_s.include? thing_to_delete}
+  source.delete_if {|name| name.to_s.include? thing_to_delete}
 end
 
 
