@@ -2,7 +2,7 @@
 
 # I worked on this challenge [by myself, with: ]
 
-# I spent [] hours on this challenge.
+# I spent [1] hours on this challenge.
 
 # 0. Pseudocode
 
@@ -60,3 +60,23 @@ end
 
 
 # 4. Reflection
+=begin
+What is an ArgumentError and why would you use one?
+We can raise ar argumentError to tell the user of the method that they didn't include the correct number of arguments.
+
+What new Ruby methods did you implement? What challenges and successes did you have in implementing them?
+The only new methods I used were rand, which returns a random number in a range, and of course while we were raising the ArgumentError
+
+What is a Ruby class?
+A class is a structure that allows you to organize methods into groups,
+
+Why would you use a Ruby class?
+If you a methods that would only be used in specific cases you can organize them in a class.
+
+What is the difference between a local variable and an instance variable?
+A instance variable will all be treated the same way, but can have many instances.
+
+Where can an instance variable be used?
+After a class is initialized you should only be using the instance variables you define.
+  
+=end
