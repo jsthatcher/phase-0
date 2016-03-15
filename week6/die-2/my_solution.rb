@@ -1,8 +1,8 @@
 # Die Class 2: Arbitrary Symbols
 
 
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I worked on this challenge by myself.
+# I spent 1 hours on this challenge.
 
 # Pseudocode
 
@@ -11,7 +11,13 @@
 	#Sides: the length of the array
 	#Roll: A randomly selected variable in the array
 # Steps:
+	#Initialize: define instance variableArray
+		#IF the variableArray is empty
+			#THEN raise argumentError
 
+	#Sides: return length of variableArray
+
+	#return: return value at (a random index in range) in varaibleArray
 
 # Initial Solution
 =begin
