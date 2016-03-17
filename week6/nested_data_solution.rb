@@ -74,3 +74,16 @@ def addLy!(array)
     index += 1
   }
 end
+
+
+=begin
+What are some general rules you can apply to nested arrays?
+It's like an order of operations problem, except you're only using parenthasis. For me it's really important to visualize the blocks of parenthasis, and then it's just like reading non-nested array one after another using the index, or if you're using hashes, keyword.
+
+What are some ways you can iterate over nested arrays?
+I took the advice in WGR and used an each method with an if statement inside to check if another array was passed in. Making this resursive ensures that my function can go as deep into nested arrays as it needs.
+
+Did you find any good new methods to implement or did you re-use one you were already familiar with? What was it and why did you decide that was a good option?
+No new methods were discovered during this assignment but it was the first time in an assignment where I found recursion was useful. We hadn't worked with recursion in DBC but Adam and I both as used it before using different languages so we felt confident enough to try.
+
+=end
