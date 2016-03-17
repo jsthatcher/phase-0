@@ -59,3 +59,16 @@ p serving_size_calc("cookie", 10)
 p serving_size_calc("THIS IS AN ERROR", 5)
 
 #  Reflection
+=begin
+What did you learn about making code readable by working on this challenge?
+This challenge ensured that we understood how to catagorize blocks of code and separate them. This made refactoring easier because we knew exactly what tasks were being acomplished where.
+
+Did you learn any new methods? What did you learn about them?
+None of these methods were new, but this was my first time actually working with cases. We used them instead of a very long if statement.
+
+What did you learn about accessing data in hashes? 
+This wasn't our first time working with hashes so accessing values and keys wasn't new to us. However this was great practice and ensured we knew the most efficient way to call information from a hash.
+
+What concepts were solidified when working through this challenge?
+Like I said above the hash practice was useful as well as working with case statements in depth for the first time. Of course I probably learned the most just doing this assignment cooporatively. It's been nice to see myself get better at communicating through video chat.
+=end

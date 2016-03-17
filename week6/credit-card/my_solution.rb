@@ -1,7 +1,7 @@
 # Class Warfare, Validate a Credit Card Number
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself, with: Adam Zmudzinski].
 # I spent [#] hours on this challenge.
 
 # Pseudocode
@@ -127,3 +127,13 @@ class CreditCard
 end
 
 # Reflection
+=begin
+What was the most difficult part of this challenge for you and your pair?
+Finding a way to split the digits in step two was probably the most difficult. However we found a really efficient way to add both digits to the sum.
+
+What new methods did you find to help you when you refactored?
+There wasn't a lot we could do to make this code more efficent. Adam know alot o ruby methods off the top of his head so we could use them in the initial solution.
+
+What concepts or learnings were you able to solidify in this challenge?
+I was glad to work with the map function agian to convert the strings back into integers. It seems like a function I'll be using a lot.
+=end
