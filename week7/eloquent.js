@@ -12,7 +12,6 @@ console.log(myFirstVariable)
 prompt("What's your favorite food?")
 alert("Hey! That's mine too")
 // Complete one of the exercises: Looping a Triangle, FizzBuzz, or Chess Board
-
 string = "#"
 while (string.length < 8) {
  console.log(string)
@@ -22,6 +21,22 @@ while (string.length < 8) {
 // Functions
 
 // Complete the `minimum` exercise.
+function min( val1, val2) {
+ if (val1 > val2)
+   return val2;
+ if (val1 < val2)
+   return val1;
+ else
+   return null
+}
+
+me = {
+ name:"Jack",
+ age:19,
+ favoriteFoods: [sushi,zuccini,linguini],
+ quirk: "quirk"
+
+};
 
 
 
