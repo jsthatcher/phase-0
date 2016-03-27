@@ -64,7 +64,6 @@ function separateComma(int){
   var reverseArray = array.reverse(); 
   var finalArray = []
   var finalString = "";
-  var finalString = "";
   var i = 0
   var subArray  = [];
 
@@ -101,6 +100,16 @@ separateComma(2)
 
 
 //Reflection
+/*
+What was it like to approach the problem from the perspective of JavaScript? Did you approach the problem differently?
+Because we were using javascriptwe were unable to insert things directly into a string. Instead we used an array which could store our values and organize them with indexes.
 
+What did you learn about iterating over arrays in JavaScript?
+The best way to do this seems to be loops corresponding to the index of the arrays.
 
+What was different about solving this problem in JavaScript?
+Javascript strings are not very flexible, so when working with them you need to think of them in terms of arrays. In Ruby there were ways to directly edit strings.
 
+What built-in methods did you find to incorporate in your refactored solution?
+Because it was helpfull to work from the back of the number, I used the reverse function twice on arrays. When I needed to convert the arrays back to strings I used the join function. 
+*/
