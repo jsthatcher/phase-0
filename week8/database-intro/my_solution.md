@@ -19,4 +19,4 @@ These keys are different for each record, foreign keys are used to connect the m
 How can you select information out of a SQL database? What are some general guidelines for that?
 I look at selecting information as shaving down the master table. You can select what columns you include and how they are ordered. Commands are written in uppercase, identities are in lower case.
 
-[Here are my tables](https://github.com/jthatcher96/phase-0/week8/database-intro/tables.png)
+[Here are my tables](https://github.com/jthatcher96/phase-0/tree/master/week8/imgs/table.png)
