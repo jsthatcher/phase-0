@@ -259,3 +259,13 @@ assert(
   "Ivy should be elected Treasurer.",
   "8. "
 )
+
+/* What did you learn about iterating over nested objects in JavaScript?
+It's real hard to keep track of, visualizing it in my head has honestly been the most helpful in not getting lost. I'd also really considering making a map of the nested objects if it gets too complicated.
+
+Were you able to find useful methods to help you with this?
+No new methods were used really, but the complexity of the loops were definitely a challenge for us.
+
+What concepts were solidified in the process of working through this challenge?
+I'm not sure about solidified, but I'm definitely much better at moving through nested objects in Javascript. I'll need more practice!
+*/
