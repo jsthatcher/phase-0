@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Enumerable Methods</title>
+	<link rel="stylesheet" type="text/css" href="cheatsheet.css">
+</head>
+<body>
+	<div id = content>
+		<div class = 'left' id =namePlate>
+	<h1> Enumerable Methods Cheatsheet</h1>
+	<h2> Jack Thatcher </h2>
+	<h3> Dev Bootcamp </h3>
+		</div>
+
+		<div class = "right"> 
+		<h1> Iteration </h1>
+		<ul> 
+			<li> each { |x| } -- Yields all elements</li>
+			<li> each_with_index(*args) { |x, i| } -- Yields all elements with their indices</li>
+			<li>reverse_each { |x| } -- Yields all elements in reverse order.  </li>
+		</ul>
+		</div>
+
+		<div class = "left">
+		<h1> Boolean </h1>
+		<ul> 
+			<li> include?(value) -- Returns true if any element == value.</li>
+			<li> all? [{|x|  }] -- Returns true if block never returns “false”.</li>
+			<li>any? [{|x|  }] -- Returns true if block ever returns “true”. Default block { |x| x }. </li>
+			<li> none? [{ |x|  }]  -- Returns true if block never returns “true”. Default block { |x| x }</li>
+		</ul>
+		</div>
+
+		<div class = "right">
+		<h1> Sorting </h1>
+		<ul> 
+			<li>sort [{ |a, b|  }]  -- Returns array sorted by <=> operator or by block.</li>
+			<li> sort_by { |x|  } -- Returns array sorted by the return value of the block.</li>
+			<li>max [{ |a, b|  }] -- Returns maximum element </li>
+			<li> min [{ |a, b|  }]  -- Returns minimum element </li>
+		</ul>
+		</div>
+
+		<div class = "left">
+				<h1> Filter </h1>
+		<ul> 
+			<li> first() -- Returns the first element</li>
+			<li> take(n) -- Returns array ofo first n element</li>
+			<li> drop(n) -- Returns array of all elements after the first n </li>
+			<li> map { |x|  } -- Returns an array with the results from the block</li>
+		</ul>
+		</div>
+
+		<div class = "right">
+		<h1> Dividing </h1>
+		<ul> 
+			<li> chunk { |x| } -- Returns enumerator for consecutive chunks of elements with common block value</li>
+			<li> slice_before(pattern) -- Returns enumerator for consecutive chunks of elements</li>
+			<li>group_by { |x| } -- Returns a hash associating block return values to arrays of elements. </li>
+		</ul>
+		</div>
+	</div>
+	
+
+
+</body>
+</html>

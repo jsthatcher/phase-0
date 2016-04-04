@@ -1,0 +1,52 @@
+body {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+div#content{
+	width:90%;
+	height:500px.;
+	background: aqua;
+	padding:10px.;
+}
+
+div.left#namePlate h1{
+font-size: 24px;
+}
+
+div.left#namePlate h2{
+font-size: 19px;
+}
+
+div.left#namePlate h3{
+font-size: 16px;
+
+}
+
+div.left{
+	width: 45%;
+	height: 10em;
+	margin-left:1em;
+	margin-top: 1em;
+	float: left;
+	padding: 0em 1em 1em 1em;
+	background-color: grey;
+}
+
+div.right{
+	width: 40%;
+	height: 10em;
+	margin-left:1em;
+	margin-top: 1em;
+	float: left;
+	clear:right;
+	padding: 0em 1em 1em 1em;
+	background-color: grey;
+}
+
+div#content div h1{
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+

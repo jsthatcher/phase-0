@@ -17,21 +17,15 @@
 
 # Initial Solution
 =begin
-def reverseEachWord(string)
+def reverse_words(string)
 	words = string.split(' ')
 	words.each do |word|
 		word.reverse!
 	end
 	string = words.join(' ')
-	print string
+	p string
 end
 =end
-
-def random_word(length = 5)
-  rand(36**length).to_s(36)
-end
-
-
 
 # Refactored Solution
 def reverse_words(string)
@@ -44,8 +38,6 @@ def reverse_words(string)
 end
 
 reverse_words('test')
-word = random_word
-reverse_words(word)
 
 # Reflection
 =begin
