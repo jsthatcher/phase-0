@@ -47,3 +47,12 @@ $("img").animate({opacity: .5, height: "10000px"}, 100000)
 
 
 })  // end of the document.ready function: do not remove or write DOM manipulation below this.
+/* What is jQuery?
+jQuery allows us to manipulate html and css in real time.
+
+What does jQuery do for you?
+This gives me many more options while creating a website. I'll be able to add animations to my personal website.
+
+What did you learn about the DOM while working on this challenge?
+I definitely understand it a little better after manipulating objects using a new language.
+*/
